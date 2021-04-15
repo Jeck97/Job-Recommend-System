@@ -1,0 +1,26 @@
+Se;St;You are a person that think more about your feeling while you also want to plan ahead. You can find a job that have a planned schedule and it required more on creativity or new ideas such as creative professional and IT profession.
+Se;Fl;You are a person that think more about your feeling while you also can cope with the changes. You can find a job that is flexible and did not have a strict planning such as creative professional and caring profession.
+Se;Ou;You are a person that think more about your feeling while you also a socialist. You can find a job that is more social with others at the same time do not required much theory based work such as academia and business owner.
+Se;Re;You are a person that think more about your feeling and you also prefer less human interaction. You can find a job that need your creativity such as IT profession.
+Th;St;You are a person that think more on theory and you also like to plan ahead. You can find job that need your high theoretical knowledge such as researcher.
+Th;Fl;You are a person that think more on theory and you also can cope with changes. You can find job that need your high theoretical knowledge such as scientist.
+Th;Ou;You are a person that think more on theory and you also a socialist. You can find job that need your high theoretical knowledge such as academia and researcher.
+Th;Re;You are a person that think more on theory but you prefer less human interaction. You can find job that need less human interaction while requires your high theoretical knowledge such as IT profession.
+St;Se;You are a person that like to plan ahead everything and you also want to follow you feeling. You can find job that need a lot of planning such as event planner.
+St;Th;You are a person that like to plan ahead everything and a person think based on theory. You can find job that need a lot of planning at the same time need your theoretical knowledge such as accountant and project manager.
+St;Ou;You are a person that like to plan ahead everything and a socialist. You can find a job that need a lot of planning at the same time can have a more human interaction such as travel agent and real estate agent.
+St;Re;You are a person like to plan everything ahead and you prefer less human interaction. You can find job that need to use your planning skill while do not require much human interaction such as librarian.
+Fl;Se;You are a person that can cope with changes and you like to follow your feeling. You can find job that need your flexibility such as designer and planner.
+Fl;Th;You are a person that can cope with changes and a person think based on theory. You can find job that need your flexibility and you theoretical knowledge such as statistician.
+Fl;Ou;You are a person that can cope with changes and a socialist. You can find job that need your flexibility such as nurse and medical director.
+Fl;Re;You are a person that can cope with changes and a person prefer less human interaction. You can find job that need your flexibility such as IT profession and front-end developer.
+Ou;Se;You are a person that like human interaction and a person that think based on feeling. You can find job that need your social skill and your creativity such as fund-raiser and event planner.
+Ou;Th;You are a person that like human interaction and a person that think based on theory. You can find job that need your social skill and your theoretical knowledge such as academia.
+Ou;St;You are a person that like human interaction and a person that prefer everything being planned ahead. You can find job that require your social skill and the way you like to do thing such as general manager.
+Ou;Fl;You are a person that like human interaction and a person that can cope with changes. You can find job that require your social skill and your flexibility such as reporter.
+Re;Se;You are a person that prefer less human interaction and a person that think based on feeling. You can find job that require less human interaction and need your creativity such as designer.
+Re;Th;You are a person that prefer less human interaction and a person that think based on theory. You can find job that require less human interaction and you theoretical knowledge such as scientist and medical transcript.
+Re;St;You are a person that prefer less human interaction and a person that prefer everything being planned ahead. You can find job that require less human interaction but at the same time can suit your way of work such as tester and post office.
+Re;Fl;You are a person that prefer less human interaction and a person that can cope with changes. You can find a job that require less human interaction and need your flexibility such as IT profession.
+
+

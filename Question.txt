@@ -1,0 +1,33 @@
+flexible;structured;In the workspace, do you feel deadlines are;sometimes necessary;always absolute
+outgoing;reserved;At a business function with many strangers, would you most likely;mingle with many, including newcomers;mingle with few familiar to you
+reserved;outgoing;In a group of new co-workers are you initially inclined to;observe and keep to yourself;jump in and get involved
+theoretical;sentimental;Do you tend to be more persuaded by;facts and data;sincerity and enthusiasm
+sentimental;theoretical;Please choose the word describe you most of the time;feeling;thinking
+reserved;outgoing;Which seems to be more natural and satisfying;frequent period of quiet and concentration by yourself;frequent socializing and interaction with others
+structured;flexible;In general, do you find you are more;objective;caring
+sentimental;theoretical;Please choose the word that describe you the most of the time;sentimental;theoretical
+flexible;structured;When conducting business, are more comfortable with a;handshake;formal contract
+sentimental;theoretical;Please choose the word that describe you most of the time;abstract;literal
+sentimental;theoretical;In general, do you consider the notion of dreamer to be;inspirational and enlightening;a waste of time and energy unless there is a practical purpose
+reserved;outgoing;With unfamiliar colleagues are you more prone to;mind your own business;strike up a conversation
+sentimental;theoretical;In normal working condition are you more drawn to;what you see and touch;what you can envision and invent
+structured;flexible;When faced with a challenge at work, do you rely on;experience to get you through it;instinct to get you through it
+structured;flexible; Are you more likely to conduct a meeting that is;planned;impromptu
+sentimental;theoretical;Would you say you are more drawn to work that is;work that required creativity;work more related to theory
+outgoing;reserved;During a disagreement, do you tend to;speak out your mind;follow the others
+structured;flexible;Are you more content with your day when;you make specific plan;no plan at all
+sentimental;theoretical;In general, do you have a tendency to see yourself as more;conceptual;practical
+flexible;structured;What is more satisfying at work;going with the flow;organizing
+outgoing;reserved;Please choose the word that describes you most of the time;more outspoken;more quiet
+structured;flexible;Would you rather work in a manner that is;scheduled;spontaneous
+structured;flexible;Do you generally prefer making day-to-day decisions;with planned consideration;when they arise
+outgoing;reserved;In general, would you say others;get to know you rather easily;get to know you with time and trust
+outgoing;reserved;In general do you consider yourself more;outgoing;reserved
+outgoing;reserved;In a meeting are you more up to;speak up;hold your tongue and listen
+sentimental;theoretical;Do you follow what you feel or what you think?;feel;think
+structured;flexible;Do you like what has been planned got sudden change?;no;yes
+outgoing;reserved;Do you like in a group or in alone?;yes;no
+sentimental;theoretical;Do you prefer getting new idea or improve from the past;new idea;from the past
+outgoing;reserved;Do you like to present your idea?;yes;no
+structured;flexible;Do you feel annoyed when there is a change on what has been planned?;yes;no 
+sentimental;theoretical;Do you like theory?;no;yes
